@@ -1,14 +1,14 @@
 # Lab 2-401 course basic-express-server
 
 ## links:
-- [heroku link](https://faten-server-deploy-prod.herokuapp.com/)
+- [heroku link](https://basic-express-server-faten.herokuapp.com/)
 
-- [Github actions link](https://github.com/Fatensamman/server-deployment-practice/actions)
+- [Github actions link](https://github.com/Fatensamman/basic-express-server/actions)
 
-- [pull request link](https://github.com/Fatensamman/server-deployment-practice/pull/2)
+- [pull request link](https://github.com/Fatensamman/basic-express-server/pull/1)
 
 ## End Points
--  person name route *https://faten-server-deploy-prod.herokuapp.com/person?name=<yourname>*
+-  person name route *https://basic-express-server-faten.herokuapp.com/person?name=<yourname>*
 
 ## setup  environment
 
